@@ -1,6 +1,7 @@
 from django.db import models
 
 class Post(models.Model):
+    print('[[[[[222')
     title = models.CharField(max_length=200)
     content = models.TextField()
 
