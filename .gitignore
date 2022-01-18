@@ -1,4 +1,11 @@
-django-react-venv/Lib/
-backend/post/__pycache__/
-backend/post/migrations/__pycache__/
-backend/htsBack/__pycache__/
+django-react-venv
+post/__pycache__/
+post/migrations/__pycache__/
+htsBack/__pycache__/
+
+.idea
+db.sqlite3
+*.pyc
+__pycache__
+
+venvs
